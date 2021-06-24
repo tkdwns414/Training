@@ -9,4 +9,4 @@ def hanoi(n, src, dst):
 
 n = int(input())
 print(pow(2, n) - 1)
-hanoi(3, 1, 3)
+hanoi(n, 1, 3)

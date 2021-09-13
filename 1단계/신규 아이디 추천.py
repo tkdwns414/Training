@@ -32,3 +32,5 @@ def solution(new_id):
             answer += answer[-1]
 
     return answer
+
+#정규식이라는게 있대요

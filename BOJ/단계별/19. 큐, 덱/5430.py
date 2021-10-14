@@ -33,3 +33,5 @@ for _ in range(t):
             print("[" + ",".join(map(str, reversed(my_deque))) + "]")
         else:
             print("[" + ",".join(map(str, my_deque)) + "]")
+
+# 띄어쓰기 때문에 틀렸다는거 너무하네...

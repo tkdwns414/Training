@@ -6,7 +6,7 @@ minus = 0
 zero = 0
 plus = 0
 
-for _ in range(n):  # 0은 하양 1은 파랑
+for _ in range(n):
     papers.append(list(map(int, sys.stdin.readline().split(" "))))
 
 

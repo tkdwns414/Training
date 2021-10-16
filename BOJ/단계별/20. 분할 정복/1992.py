@@ -3,7 +3,7 @@ import sys
 n = int(sys.stdin.readline())
 papers = []
 
-for _ in range(n):  # 0은 하양 1은 파랑
+for _ in range(n):
     papers.append(sys.stdin.readline().rstrip())
 
 

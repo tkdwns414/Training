@@ -20,4 +20,6 @@ for i in range(1, N):
 
 print(dp[0][N - 1])
 
+# i는 시작점, 끝점 차이
+# j는 시작점, end는 끝점, k는 j와 end 사이의 수들
 # 시간초과 Pypy3로 제출
